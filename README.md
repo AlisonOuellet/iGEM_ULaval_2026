@@ -25,9 +25,9 @@ To work locally with this project, follow the steps below:
 git clone https://github.com/AlisonOuellet/iGEM_ULaval_2026.git
 cd iGEM_ULaval_2026
 # python3 -m venv venv
-source venv/bin/activate      # On Linux or macOS
-venv\Scripts\activate         # On Windows
-pip install -r requirements.txt
+# source venv/bin/activate      # On Linux or macOS
+# venv\Scripts\activate         # On Windows
+# pip install -r requirements.txt
 ```
 
 #### Execute
