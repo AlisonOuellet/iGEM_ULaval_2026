@@ -2,7 +2,7 @@
 
 ![Pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/AlisonOuellet/Python---Protein-Strucure-Intelligence?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/AlisonOuellet/iGEM_ULaval_2026?style=flat-square)
 
 ---
 ### Overview
